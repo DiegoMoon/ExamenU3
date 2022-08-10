@@ -1,5 +1,4 @@
-fecha = input(str("Fecha de nacimiento"))
-edad = input(int("Edad"))
+lugar = str(input("Ingresa tu lugar de nacimiento: "))
+edad = int(input("INgresa tu edad:  "))
 
-print("Fecha: " + fecha)
-print("Edad: " + edad)
+print(city + " " + str(age))
